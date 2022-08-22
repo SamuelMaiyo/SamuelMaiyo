@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamuelMaiyo
 - 👀 I’m interested in Software Engineering and Cloud Computing
-- 🌱 I’m currently learning Data Structures and Algorithms in Python
+- 🌱 I’m currently learning Cloud DevOps in Udacity
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me; sammymaiyo12@gmail.com
 
