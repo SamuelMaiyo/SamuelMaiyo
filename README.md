@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamuelMaiyo
-- 👀 I’m interested in Software Engineering and Cloud Computing
-- 🌱 I’m currently learning Cloud DevOps at Udacity
+- 👀 I’m a Software Engineer and a Cloud Developer
+- 🌱 I’m currently working as a Cloud and DevOps Engineer
 - 🤝 I’m looking to collaborate on anything
 - 📫 How to reach me; sammymaiyo12@gmail.com
 - 
