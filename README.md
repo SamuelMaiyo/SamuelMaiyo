@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamuelMaiyo
-- 👀 I’m a Software Engineer and a Cloud Developer
-- 🌱 I’m currently working as a Cloud and DevOps Engineer
+- 👀 I’m a Cloud DevOps Engineer
+- 🌱 I’m currently working as a Cloud Technical Architect
 - 🤝 I’m looking to collaborate on anything
 - 📫 How to reach me; sammymaiyo12@gmail.com
 - 
